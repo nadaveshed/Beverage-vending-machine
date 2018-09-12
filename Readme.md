@@ -1,5 +1,4 @@
 # Beverage vending machine 2018
-# =============================
 
 The script developed in Node.js v10.9.0 by Nadav Eshed. 
 
@@ -33,6 +32,6 @@ The script developed in Node.js v10.9.0 by Nadav Eshed.
 --The user insert 5$ to the machine and get Tea with 2 sugar and 3.5$ change.--
 
 
-## for further help please contact me:
+## For further help please contact me:
 Phone number: +972546278578
 Mail: nadav3200@gmail.com
