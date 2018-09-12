@@ -2,7 +2,7 @@
 
 The script developed in Node.js v10.9.0 by Nadav Eshed. 
 
-# Important notes:
+## Important notes:
 1. There is no UI.
 2. The script will work with node.js version above 8.
 3. The script take the arguments that the user inserst and return output.
@@ -10,10 +10,10 @@ The script developed in Node.js v10.9.0 by Nadav Eshed.
 5. In every step of the script the user can cancel the operation by adding "Cancel".
 6. Before run the script the user should install the external library: tofixed.
 
-# Operating Instructions:
+## Operating Instructions:
 1. open cmd or other command prompet that work with node.js function. 
-2. type "npm i tofixed --save".
-3. write "node app.js" to start the script.
+2. type `npm i tofixed --save`.
+3. write `node app.js` to start the script.
 4. follow the script steps.
 5. fisrt the user need to choose the payment method: credit or coins.
 6. the user can choose which beverage type he want by typing: hot or light.
@@ -22,14 +22,14 @@ The script developed in Node.js v10.9.0 by Nadav Eshed.
 9. after the user entered enough coins to the machine he can choose the product he want.
 10. in case of hot beverage the user will need to choose how many sugar he want in his hot drink.
 
-# Example run:
-1. node app.js
-2. node app.js coins
-3. node app.js coins hot
-3. node app.js coins hot 5
-4. node app.js coins hot Tea
-5. node app.js coins hot Tea 2
---The user insert 5$ to the machine and get Tea with 2 sugar and 3.5$ change.--
+## Example run:
+1. `node app.js`
+2. `node app.js coins`
+3. `node app.js coins hot`
+3. `node app.js coins hot 5`
+4. `node app.js coins hot Tea`
+5. `node app.js coins hot Tea 2`
+--The user insert 5$ to the machine and will get back Tea with 2 sugar and 3.5$ change.--
 
 
 ## For further help please contact me:
