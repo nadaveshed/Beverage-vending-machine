@@ -34,6 +34,5 @@ Example run:
 
 
 for further help please contact me:
-Github: 
-Phone number: 0546278578
+Phone number: +972546278578
 Mail: nadav3200@gmail.com
