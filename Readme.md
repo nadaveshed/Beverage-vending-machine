@@ -29,7 +29,9 @@ The script developed in Node.js v10.9.0 by Nadav Eshed.
 3. `node app.js coins hot 5`
 4. `node app.js coins hot Tea`
 5. `node app.js coins hot Tea 2`
---The user insert 5$ to the machine and will get back Tea with 2 sugar and 3.5$ change.--
+
+*The user insert 5$ to the machine and choose Tea,*
+*he will get back Tea with 2 sugar and 3.5$ change.*
 
 
 ## For further help please contact me:
