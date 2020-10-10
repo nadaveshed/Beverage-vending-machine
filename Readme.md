@@ -32,8 +32,3 @@ The script developed in Node.js v10.9.0 by Nadav Eshed.
 
 *The user insert 5$ to the machine and choose Tea,*
 *he will get back Tea with 2 sugar and 3.5$ change.*
-
-
-## For further help please contact me:
-Phone number: +972546278578
-Mail: nadav3200@gmail.com
